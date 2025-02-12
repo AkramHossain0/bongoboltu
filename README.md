@@ -15,6 +15,6 @@
 4. Compete for the highest score!  
 
 ## 🔗 Play Now  
-[Click Here to Play](https://akramhossain0.github.io/bongoboltu/)  
+[![Play Icon](https://img.icons8.com/ios-filled/50/000000/play.png) Click Here to Play](https://akramhossain0.github.io/bongoboltu/)  
 
-Enjoy the game and challenge your friends! 🎮  
+Enjoy the game and challenge your friends! 🎮
