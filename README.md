@@ -1,7 +1,4 @@
 # BongoBoltu - Shooting Game  
-
-[Visit the Game](https://akramhossain0.github.io/bongoboltu/)  
-
 ## 🕹️ Features  
 - **Simple Controls**: Easy to learn and play.  
 - **Fast-Paced Action**: Engage in quick shooting challenges.  
@@ -15,6 +12,6 @@
 4. Compete for the highest score!  
 
 ## 🔗 Play Now  
-[![Play Icon](https://img.icons8.com/ios-filled/50/000000/play.png) Click Here to Play](https://akramhossain0.github.io/bongoboltu/)  
+[Here to Play](https://akramhossain0.github.io/bongoboltu/)  
 
 Enjoy the game and challenge your friends! 🎮
